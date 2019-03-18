@@ -1,0 +1,2 @@
+# makelate
+makefile template generator
